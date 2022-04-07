@@ -1,0 +1,57 @@
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    border-radius: 5px;
+    padding-right: 4px;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #dddddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #04aa6d;
+    color: :-moz-only-whitespace;
+}
+
+.username {
+
+    margin-top: 8px;
+    float: right;
+    text-align: center;
+    height: 25px;
+    width: 250px;
+    border-radius: 5px;
+}
+
+.password {
+    margin-top: 8px;
+    float: right;
+    text-align: center;
+    height: 25px;
+    width: 180px;
+    border-radius: 5px;
+}
+
+.login {
+    margin-top: 8px;
+    float: right;
+    border-right-width: 5px;
+    text-align: center;
+    height: 31px;
+    width: 41px;
+   border-right-width: 2px;
+   border-radius: 5px;
+
+}
+
